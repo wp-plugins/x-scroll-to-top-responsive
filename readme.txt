@@ -17,7 +17,7 @@ This plugin will automaticaly add a scroll to top on bottom center.
 == Installation ==
 
 1. Install as a regular WordPress plugin
-2. You will see a scroll to top on bottom right when you are going to scroll. 
+2. You will see a scroll to top on bottom center when you are going to scroll. 
 
 == Frequently asked questions ==
 1. You can ask me any question if you need helep and you can suggest me.

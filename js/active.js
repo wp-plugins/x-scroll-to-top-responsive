@@ -1,9 +1,9 @@
 jQuery(document).ready(function(){
 			jQuery.scrollUp({
 		        scrollName: 'scrollUp', // Element ID
-		        scrollDistance: 300, // Distance from top/bottom before showing element (px)
+		        scrollDistance: 100, // Distance from top/bottom before showing element (px)
 		        scrollFrom: 'top', // 'top' or 'bottom'
-		        scrollSpeed: 600, // Speed back to top (ms)
+		        scrollSpeed: 1000, // Speed back to top (ms)
 		        easingType: 'linear', // Scroll to top easing (see http://easings.net/)
 		        animation: 'fade', // Fade, slide, none
 		        animationInSpeed: 200, // Animation in speed (ms)

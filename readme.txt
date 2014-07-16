@@ -12,9 +12,7 @@ This plugin will automaticaly add a scroll to top on bottom center.
 
 == Description ==
 
-This plugin will automaticaly add a scroll to top on bottom center. You can change your 
-icon color by using setting page. You will find setting page under WordPress default 
-setting menu.
+X Scroll to top plugin makes the scrolling of a page easier. It appends an icon at bottom of the page which attracts user attention. When the user click on this button it smoothly scrolls to the top of Webpage. X Scroll To Top plugin offers custom settings which no other plugin have.
 
 == Installation ==
 

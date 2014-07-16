@@ -1,11 +1,1 @@
-@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
-a#scrollUp {
-	border-radius: 40px;
-	color:#425F9C;
-	font-size:30px;	
-	bottom: 20px;
-	height: 38px;
-	width: 38px;
-	right:50%;
-	
-}
+input[type=text].x_color, input[type=text].x_size{width:80px;}

@@ -27,7 +27,8 @@ setting menu.
 == Screenshots ==
 
 1. Scroll to top arrow on bottom center.
-
+2. Go to setting page.
+3. Set up your icon color and icon size.
 == Changelog ==
 
 = 1.0 = 2 =

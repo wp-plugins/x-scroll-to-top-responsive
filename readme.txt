@@ -12,7 +12,9 @@ This plugin will automaticaly add a scroll to top on bottom center.
 
 == Description ==
 
-This plugin will automaticaly add a scroll to top on bottom center. 
+This plugin will automaticaly add a scroll to top on bottom center. You can change your 
+icon color by using setting page. You will find setting page under WordPress default 
+setting menu.
 
 == Installation ==
 
@@ -28,14 +30,14 @@ This plugin will automaticaly add a scroll to top on bottom center.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0 = 2 =
 * Initial release
 
-= 1.1 =
+= 1.1 = 2 =
 * Added Screenshot
 
 
 == Upgrade notice ==
 
-= 1.1 =
+= 1.1 =2 =
 Added Screenshot

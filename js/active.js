@@ -17,4 +17,12 @@ jQuery(document).ready(function(){
 			
 			
 	jQuery("a#scrollUp").append("<i class='fa fa-chevron-up'></i>");
+	
+	
+	/*Active WordPress Color Picker */
+	 jQuery(document).ready(function(){
+		jQuery('#ilctabscolorpicker').hide();
+			jQuery('#ilctabscolorpicker').farbtastic('#x_color');
+			jQuery('#x_color').click(function(){jQuery('#ilctabscolorpicker').slideToggle()});
+		});
 }); 

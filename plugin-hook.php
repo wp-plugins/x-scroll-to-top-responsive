@@ -116,6 +116,9 @@ function x_display_submenu_main_options(){
 					
 					
 				<?php submit_button(); ?>
+				<div class="xauthor_link">
+					<button><a target="blank" href="https://www.elance.com/s/edit/jahid07/">Hire Me!</a></button>
+				</div>
 			</form>
 		</div>
 <?php

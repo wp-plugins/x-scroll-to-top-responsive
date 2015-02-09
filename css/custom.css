@@ -1,4 +1,4 @@
-input[type=text].x_color, input[type=text].x_size{width:80px;}
+input[type=text].x_scroll_color, input[type=text].x_scroll_size, input[type=text].x_scroll_position{width:80px;}
 div.xauthor_link{}
 div.xauthor_link button{background-color: #47639E;border: 1px solid rgb(40, 77, 151);border-radius: 6px;}
 div.xauthor_link button a{text-decoration:none;padding:10px 5px;color:#fff;font-size:20px;}

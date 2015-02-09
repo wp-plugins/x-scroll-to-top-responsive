@@ -98,7 +98,7 @@ function x_add_head() {
 				right:$ScrollPosition;
 				color:$color;
 				background:$backgroundField;
-				padding: 2px 2px 5px 2px;
+				padding: 6px 2px 4px 2px;
 				border-radius: 5px;
 			}
 	</style>	

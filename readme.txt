@@ -31,9 +31,6 @@ Features
 1. You can ask me any question if you need helep and you can suggest me.
 
 == Screenshots ==
-1. 1. Scroll to top arrow on bottom center.
-2. 2. Go to setting page.
-3. 3. Set up your icon color , icon size, scroll to top backgeound color and scroll position.
 
 == Changelog ==
 = 1.0 = 2.0 =
